@@ -48,8 +48,8 @@ end
 #   end
 
   # return the projects hash
-  projects
-end
+#   projects
+# end
 
 # binding.pry
 # self.create_project_hash
